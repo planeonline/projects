@@ -2,3 +2,7 @@
 	path = www
 	url = git@github.com:planeon/www.git
 	branch = master
+[submodule "jenkins"]
+	path = jenkins
+	url = git@github.com:planeon/jenkins.git
+	branch = master
