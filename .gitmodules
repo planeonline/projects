@@ -1,8 +1,8 @@
 [submodule "www"]
 	path = www
-	url = git@github.com:planeonline/www.git
+	url = https://github.com/planeonline/www.git
 	branch = master
 [submodule "jenkins"]
 	path = jenkins
-	url = git@github.com:planeonline/jenkins.git
+	url = https://github.com/planeonline/jenkins.git
 	branch = master
